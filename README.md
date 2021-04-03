@@ -47,8 +47,6 @@
 
 ## About The Project
 
-![Project Screenshot](/src/screenshot.png "Placeholder Screenshot")
-
 This project is a collaboration between [Duck Labs](http://ducklabs.com/) and [EvolveU](https://www.evolveu.ca/) that aims to teach students the entirety of the spectrum of full-stack web development, starting with the visuals and UX of the front-end, and ending with the database and server communcation of the back-end, with the result being a complete and functional website.
 
 Specifically, this work is meant to exemplify the pedagogy of **Project-based Learning**. PBL is an instructional methodology that encourages students to learn and apply knowledge and skills through an engaging experience. PBL presents opportunities for deeper learning in-context and for the development of important skills tied to career readiness.
