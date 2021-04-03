@@ -8,9 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/brennanbrown/duck-project">
-    <img src="src/img/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  
 
   <h3 align="center">Untitled Duck Project</h3>
 
